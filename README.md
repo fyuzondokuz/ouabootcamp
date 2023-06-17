@@ -1,24 +1,32 @@
 # Takım İsmi
-Takım İsmi
+
 # Ürün İle İlgili Bilgiler
 ## Takım Elemanları
 * Eda Akbaşak: Product Owner
 * Yılmaz Can Polat: Developer
 * Mertcan Aydoğan: Developer
 * Neşe Nefise Çiftçioğlu: Aktif olmayan üye
-* Esra Bektaş: Product Owner
+* Esra Bektaş: Scrum Master
 ## Ürün İsmi
-İsim
+My Pet
 ## Product Backlog URL
 [Flutter Team 119 Miro Backlog Board](https://miro.com/app/board/uXjVMAgGfjw=/?share_link_id=652661104250)
 ## Ürün Açıklaması
-Evde en çok bakılan hayvanlardan olan 
+Hayvanseverler için en iyi arkadaşlarına dair tüm ihtiyaçlarınızı karşılayacak bir uygulama sunmaktayız. Kedi, köpek ve kuş sahipleri için tasarlanmış bir uygulamadır. Bu uygulama, sizlere hayvanlarınızın sağlığı ve mutluluğuyla ilgili bilgilere kolay erişim sağlarken, aynı zamanda indirimler, küçük mama tester paketleri gibi avantajlar sunar.
+Uygulamamız, bu ihtiyaçları karşılamak için size rehberlik edecek ve hayvanlarınızın bakımıyla ilgili güncel bilgilere erişmenizi sağlayacak bir kaynak sunar.
+Uygulama, kedi, köpek ve kuşlar için özel olarak hazırlanmış içeriklerle doludur. Veterinerler, uzman hayvan bakıcıları ve eğitmenler tarafından sağlanan bilgilerle, hayvanınızın tüm sağlık ve bakım ihtiyaçlarını karşılamak için gerekli adımları atabilirsiniz. Sağlıklı beslenme,, tüy bakımı ve sürpriz bilgilerle birlikte daha birçok konuda değerli ipuçlarına ve tavsiyelere erişebilirsiniz.
+Ayrıca, uygulamamız, evcil hayvan malzemeleri için indirimler ve özel fırsatlar sunar. Mamalar, oyuncaklar, tasma ve tasarımlı kulübeler gibi birçok üründe indirimlerden yararlanabilirsiniz. Ayrıca, yeni ürünlerin küçük mama tester paketlerini uygun fiyatlarla deneme fırsatını kaçırmayın. Böylece, hayvanlarınız için en iyi ürünleri seçerken maddi açıdan da tasarruf sağlayabilirsiniz.
+Uygulamamızın kullanımı kolaydır ve kişiselleştirilmiş bir deneyim sunar. Hayvanlarınızın profilini oluşturarak, onların özelliklerini ve ihtiyaçlarını kaydedebilirsiniz. Bu sayede, size özel öneriler ve hatırlatmalar alabilirsiniz.
+Uygulamamız, hayvanseverler için vazgeçilmez bir yardımcıdır. Hem kendi bilgi birikiminizi artırabilir, hem de evcil hayvanlarınızın sağlığı ve refahı için en iyi ürünleri uygun fiyatlarla satın alabilirsiniz. Siz de ailemize katılın ve sevimli dostlarınızın daha sağlıklı ve mutlu bir yaşam sürdürmesine yardımcı olun!
 ## Ürün Özellikleri
-Özellik
+* Uygun fiyata değişik ürünleri deneme fırsatı sunmakta.
+* Hayvanlarımızın sağlığı hakkında doğru bilgiye ulaşabilirsiniz.
+* En yakın dostumuz olan hayvanlarımızı daha iyi anlayabilme imkanınız olur.
+* Bazı dostalarımızın türüne özel bilgilere ulaşma fırsatı elde ederiz.
 ## Hedef Kitle
 * Evcil hayvan sahipleri
 * Hayvanlarla daha bilgili ilgilenmek isteyenler
-* Hayvanları için uygun ürün bulmak isteyenler
+* Hayvanları için uygun ürünü arayanlar
 * Hayvanlarının kontrollerini daha düzenli takip etmek isteyenler
 ## Juriye Not
 Süreç boyunca birçok konuda değişim oldu. Olabildiğince birlikte çalışıp bir şeyler yapmaya çalışmaktayız.
