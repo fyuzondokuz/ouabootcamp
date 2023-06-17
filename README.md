@@ -1,6 +1,7 @@
 # Takım İsmi
-
+Siyah İnci
 # Ürün İle İlgili Bilgiler
+En yakın dostlarımızdan olan evcil hayvanlarımız için bir uygulama.
 ## Takım Elemanları
 * Eda Akbaşak: Product Owner
 * Yılmaz Can Polat: Developer
