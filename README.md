@@ -23,11 +23,13 @@ Evde en çok bakılan hayvanlardan olan
 ## Juriye Not
 Süreç boyunca birçok konuda değişim oldu. Olabildiğince birlikte çalışıp bir şeyler yapmaya çalışmaktayız.
 # Sprint 1
-* **Daily Scrum:** Toplantılar final sınavları dolayısıyla seyrek olarak yapılmaktadır. Yapılan toplantıların notları word formatında paylaşmaktayız. [Sprint 1 Toplantılar](/Project Managment/Sprint1Documents/Toplantı Notları.docx)
-* **Sprint Board Update:** Sprint board ekran resimleri;
-
+* **Daily Scrum:** Toplantılar final sınavları dolayısıyla seyrek olarak yapılmaktadır. Yapılan toplantıların notları word formatında paylaşmaktayız. [Sprint 1 Toplantılar](/Project%20Managment/Sprint1Documents/Toplantı%20Notları.docx)
+* **Sprint Board Update:** Sprint board ekran resimi;
+![Sprint board ekran resimi](/Project%20Managment/Sprint1Documents/Sprint%201.jpg)
 * **Ürünün Durumu:** Ekran görüntüleri;
-
+![Ürün1](/Project%20Managment/Sprint1Documents/Uygulama%20Giriş%20Ekranı.jpg)
+![Ürün2](/Project%20Managment/Sprint1Documents/Uygulama%20Ana%20Ekran.png)
+![Ürün3](/Project%20Managment/Sprint1Documents/Uygulama%20GİF.gif)
 * **Sprint Review:** Uygulamanın kapsamı karara bağlanmıştır. Karara bağlanılana kadar uygulamada standart olan giriş sayfası ve anasayfa şablonu gibi kısımlar oluşturulmaya başlanmıştır. Sprint Review katılımcıları: Eda Akbaşak, Esra Bektaş, Mertcan Aydoğan, Yılmaz Can Polat.
 * **Sprint Retrospective:**
   - Roller belli olsa da herkes ortaklaşa hareket etmektedir.
