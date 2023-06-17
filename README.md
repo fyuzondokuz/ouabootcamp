@@ -23,7 +23,7 @@ Evde en çok bakılan hayvanlardan olan
 ## Juriye Not
 Süreç boyunca birçok konuda değişim oldu. Olabildiğince birlikte çalışıp bir şeyler yapmaya çalışmaktayız.
 # Sprint 1
-* **Daily Scrum:** Toplantılar final sınavları dolayısıyla seyrek olarak yapılmaktadır. Yapılan toplantıların notları word formatında paylaşmaktayız. [Sprint 1 Toplantılar]()
+* **Daily Scrum:** Toplantılar final sınavları dolayısıyla seyrek olarak yapılmaktadır. Yapılan toplantıların notları word formatında paylaşmaktayız. [Sprint 1 Toplantılar](/Project Managment/Sprint1Documents/Toplantı Notları.docx)
 * **Sprint Board Update:** Sprint board ekran resimleri;
 
 * **Ürünün Durumu:** Ekran görüntüleri;
