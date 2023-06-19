@@ -46,3 +46,4 @@ Süreç boyunca birçok konuda değişim oldu. Olabildiğince birlikte çalış�
   - Roller belli olsa da herkes ortaklaşa hareket etmektedir.
   - Uygulamada UI/UX kısmına son hızda devam edilecek.
   - Bazı araştırmalara göre uygulamanın bazı kısımları gözden geçirilecek.
+* **Sprint Notu:** Herkes iyi olduğu görevi gerçekleştirmekle birlikte her işte yardımcı olabilmekte. Takımın dinamiğini oluşturduk. Güzel ve hoş bir süreçti.
