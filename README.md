@@ -32,6 +32,8 @@ Uygulamamız, hayvanseverler için vazgeçilmez bir yardımcıdır. Hem kendi bi
 ## Juriye Not
 Süreç boyunca birçok konuda değişim oldu. Olabildiğince birlikte çalışıp bir şeyler yapmaya çalışmaktayız.
 # Sprint 1
+* **Sprint içinde tamamlanması tahmin edilen puan:** 90 Puan
+* **Puan tamamlama mantığı:** Proje boyunca tamamlanması gereken 340 puanlık backlog vardır. Bunun iiçin bu Sprinte en az 90 ile başlamaya karar verildi.
 * **Daily Scrum:** Toplantılar final sınavları dolayısıyla seyrek olarak yapılmaktadır. Yapılan toplantıların notları word formatında paylaşmaktayız. [Sprint 1 Toplantılar](/Project%20Managment/Sprint1Documents/Toplantı%20Notları.docx)
 * **Sprint Board Update:** Sprint board ekran resimi;
 ![Sprint board ekran resimi](/Project%20Managment/Sprint1Documents/Sprint%201.jpg)
