@@ -47,3 +47,15 @@ Süreç boyunca birçok konuda değişim oldu. Olabildiğince birlikte çalış�
   - Uygulamada UI/UX kısmına son hızda devam edilecek.
   - Bazı araştırmalara göre uygulamanın bazı kısımları gözden geçirilecek.
 * **Sprint Notu:** Herkes iyi olduğu görevi gerçekleştirmekle birlikte her işte yardımcı olabilmekte. Takımın dinamiğini oluşturduk. Güzel ve hoş bir süreçti.
+## Product Backlog URL
+[Flutter Team 119 Miro Backlog Board](https://miro.com/app/board/uXjVMAgGfjw=/?share_link_id=652661104250)
+# Sprint 2
+* **Sprint içinde tamamlanması tahmin edilen puan:**
+*  **Daily Scrum:**
+*  **Sprint board update:**
+*  **Ürün Durumu:**
+*  **Sprint Review:**
+*  **Sprint Retrospective:**
+*  **Sprint Notu:**
+## Product Backlog URL
+[Flutter Team 119 Miro Backlog Board](https://miro.com/app/board/uXjVMAgGfjw=/?share_link_id=652661104250)
