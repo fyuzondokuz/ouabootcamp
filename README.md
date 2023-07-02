@@ -51,7 +51,7 @@ Süreç boyunca birçok konuda değişim oldu. Olabildiğince birlikte çalış�
 [Flutter Team 119 Miro Backlog Board](https://miro.com/app/board/uXjVMAgGfjw=/?share_link_id=652661104250)
 # Sprint 2
 * **Sprint içinde tamamlanması tahmin edilen puan:** 100
-*  **Daily Scrum:** Daily Scrum bütünleme sınavları ve bayram dolayısıyla geçen Sprinte göre sıklıkları arttırılsa da seyrek yapılmaya devam etmişitir. Yapılan toplantıların notları word formatında paylaşmaktayız. 
+*  **Daily Scrum:** Daily Scrum bütünleme sınavları ve bayram dolayısıyla geçen Sprinte göre sıklıkları arttırılsa da seyrek yapılmaya devam etmişitir. Yapılan toplantıların notları word formatında paylaşmaktayız. [Sprint 2 Toplantılar](Project%20Managment/Sprint2Documents/Toplantı%20Notları%20(1).docx)
 *  **Sprint board update:** Sprint board screenshotları;
 ![Sprint board ekran resimi](/Project%20Managment/Sprint2Documents/Sprint2.png)
 *  **Ürün Durumu:** Maalesef üründe karar verilemeyen kısımlar olduğundan ve bu kısımlar sürekli ekle çıkar durumunda olduğundan bir ekleme ve çıkarma yapılmamıştır.
