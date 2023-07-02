@@ -33,7 +33,7 @@ Uygulamamız, hayvanseverler için vazgeçilmez bir yardımcıdır. Hem kendi bi
 Süreç boyunca birçok konuda değişim oldu. Olabildiğince birlikte çalışıp bir şeyler yapmaya çalışmaktayız.
 # Sprint 1
 * **Sprint içinde tamamlanması tahmin edilen puan:** 85 Puan
-* **Puan tamamlama mantığı:** Proje boyunca tamamlanması gereken 300 puanlık backlog vardır. Bunun iiçin bu Sprinte en az 85 ile başlamaya karar verildi.
+* **Puan tamamlama mantığı:** Proje boyunca tamamlanması gereken 300 puanlık backlog vardır. Bunun için bu Sprintte en az 85 ile başlamaya karar verildi.
 * **Daily Scrum:** Toplantılar final sınavları dolayısıyla seyrek olarak yapılmaktadır. Yapılan toplantıların notları word formatında paylaşmaktayız. [Sprint 1 Toplantılar](/Project%20Managment/Sprint1Documents/Toplantı%20Notları.docx)
 * **Sprint Board Update:** Sprint board ekran resimi;
 ![Sprint board ekran resimi](/Project%20Managment/Sprint1Documents/Sprint%201.jpg)
@@ -50,12 +50,14 @@ Süreç boyunca birçok konuda değişim oldu. Olabildiğince birlikte çalış�
 ## Product Backlog URL
 [Flutter Team 119 Miro Backlog Board](https://miro.com/app/board/uXjVMAgGfjw=/?share_link_id=652661104250)
 # Sprint 2
-* **Sprint içinde tamamlanması tahmin edilen puan:**
-*  **Daily Scrum:**
-*  **Sprint board update:**
-*  **Ürün Durumu:**
-*  **Sprint Review:**
+* **Sprint içinde tamamlanması tahmin edilen puan:** 100
+*  **Daily Scrum:** Daily Scrum bütünleme sınavları ve bayram dolayısıyla geçen Sprinte göre sıklıkları arttırılsa da seyrek yapılmaya devam etmişitir.
+*  **Sprint board update:** Sprint board screenshotları;
+![Sprint board ekran resimi]()
+*  **Ürün Durumu:** Maalesef üründe karar verilemeyen kısımlar olduğundan ve bu kısımlar sürekli ekle çıkar durumunda olduğundan bir ekleme ve çıkarma yapılmamıştır.
+*  **Sprint Review:** Alınan kararlar: İş bölümü yapıldı. Yetişmeme ihtimalinin yüksek olduğu ve bu durumda yedek olarak hesap makinesi uygulamasını hazır olarak bulundurma konuşuldu.
 *  **Sprint Retrospective:**
-*  **Sprint Notu:**
+   -Günlük göeüşmelere başlanacak.
+*  **Sprint Notu:** Genel olarak fikirin belirlenememesinden ve kalan sürenin azlığından endişeleniliyor.
 ## Product Backlog URL
 [Flutter Team 119 Miro Backlog Board](https://miro.com/app/board/uXjVMAgGfjw=/?share_link_id=652661104250)
