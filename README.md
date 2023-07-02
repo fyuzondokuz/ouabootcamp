@@ -39,7 +39,7 @@ Süreç boyunca birçok konuda değişim oldu. Olabildiğince birlikte çalış�
 ![Sprint board ekran resimi](/Project%20Managment/Sprint1Documents/Sprint%201.jpg)
 * **Ürünün Durumu:** Ekran görüntüleri;
 ![Ürün1](/Project%20Managment/Sprint1Documents/Uygulama%20Giriş%20Ekranı.jpg)
-![Ürün2](/ProjectManagment/Sprint1Documents/Uygulama%20Ana%20Ekran.png)
+![Ürün2](/Project%20Managment/Sprint1Documents/Uygulama%20Ana%20Ekran.png)
 ![Ürün3](/Project%20Managment/Sprint1Documents/Uygulama%20GİF.gif)
 * **Sprint Review:** Uygulamanın kapsamı karara bağlanmıştır. Karara bağlanılana kadar uygulamada standart olan giriş sayfası ve anasayfa şablonu gibi kısımlar oluşturulmaya başlanmıştır. Sprint Review katılımcıları: Eda Akbaşak, Esra Bektaş, Mertcan Aydoğan, Yılmaz Can Polat.
 * **Sprint Retrospective:**
@@ -53,7 +53,7 @@ Süreç boyunca birçok konuda değişim oldu. Olabildiğince birlikte çalış�
 * **Sprint içinde tamamlanması tahmin edilen puan:** 100
 *  **Daily Scrum:** Daily Scrum bütünleme sınavları ve bayram dolayısıyla geçen Sprinte göre sıklıkları arttırılsa da seyrek yapılmaya devam etmişitir.
 *  **Sprint board update:** Sprint board screenshotları;
-![Sprint board ekran resimi](/Project%20Managment/Sprint2Documents/2.Sprint Backlog.png)
+![Sprint board ekran resimi](/Project%20Managment/Sprint2Documents/Sprint2.png)
 *  **Ürün Durumu:** Maalesef üründe karar verilemeyen kısımlar olduğundan ve bu kısımlar sürekli ekle çıkar durumunda olduğundan bir ekleme ve çıkarma yapılmamıştır.
 *  **Sprint Review:** Alınan kararlar: İş bölümü yapıldı. Yetişmeme ihtimalinin yüksek olduğu ve bu durumda yedek olarak hesap makinesi uygulamasını hazır olarak bulundurma konuşuldu.
 *  **Sprint Retrospective:**
