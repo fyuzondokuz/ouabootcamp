@@ -53,7 +53,7 @@ Süreç boyunca birçok konuda değişim oldu. Olabildiğince birlikte çalış�
 * **Sprint içinde tamamlanması tahmin edilen puan:** 100
 *  **Daily Scrum:** Daily Scrum bütünleme sınavları ve bayram dolayısıyla geçen Sprinte göre sıklıkları arttırılsa da seyrek yapılmaya devam etmişitir.
 *  **Sprint board update:** Sprint board screenshotları;
-![Sprint board ekran resimi]()
+![Sprint board ekran resimi](/Project%20Managment/Sprint2Documents/2.Sprint Backlog.png)
 *  **Ürün Durumu:** Maalesef üründe karar verilemeyen kısımlar olduğundan ve bu kısımlar sürekli ekle çıkar durumunda olduğundan bir ekleme ve çıkarma yapılmamıştır.
 *  **Sprint Review:** Alınan kararlar: İş bölümü yapıldı. Yetişmeme ihtimalinin yüksek olduğu ve bu durumda yedek olarak hesap makinesi uygulamasını hazır olarak bulundurma konuşuldu.
 *  **Sprint Retrospective:**
