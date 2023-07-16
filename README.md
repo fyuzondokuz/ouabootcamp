@@ -64,10 +64,23 @@ Süreç boyunca birçok konuda değişim oldu. Olabildiğince birlikte çalış�
 # Sprint 3
 * **Sprint içinde tamamlanması tahmin edilen puan:** 115
 * **Puan tamamlama mantığı:** Tüm Sprintlerden kalan puanlar toplanmıştır.
-* **Daily Scrum:** Hemen hemen her gün toplanılmıştır. Çoğu zaman toplantıdan öte beraber çalışılmıştır. 
-* **Sprint Board Update:** Sprint board screenshotları:
+* **Daily Scrum:** Hemen hemen her gün toplanılmıştır. Çoğu zaman toplantıdan öte beraber çalışılmıştır. Önemli konuşmaların gerçekleştiği toplantılarda not alınmıştır ve notlar word formatında paylaşılmaktadır. [Sprint 3 Toplantılar](Project%20Managment/Sprint3Documents/Toplantı%20Notları.docx)
+* **Sprint Board Update:** Sprint board screenshotları;
+![Sprint board ekran resimi](/Project%20Managment/Sprint3Documents/Sprint3.png)
 * **Ürünün Durumu:** Ekran görüntüleri;
-* **Sprint Review:**
+![Ürün1](/Project%20Managment/Sprint3Documents/Giriş%Ekranı.jpg)
+![Ürün2](/Project%20Managment/Sprint3Documents/KayıtEkranı.jpg)
+![Ürün3](/Project%20Managment/Sprint3Documents/Profil1.jpg)
+![Ürün4](/Project%20Managment/Sprint3Documents/Profil2.jpg)
+![Ürün5](/Project%20Managment/Sprint3Documents/Profil3.jpg)
+![Ürün6](/Project%20Managment/Sprint3Documents/Profil4.jpg)
+![Ürün7](/Project%20Managment/Sprint3Documents/BilgiEkranı1.png)
+![Ürün8](/Project%20Managment/Sprint3Documents/BilgiEkranı2.png)
+![Ürün9](/Project%20Managment/Sprint3Documents/BilgiEkranı3.png)
+![Ürün10](/Project%20Managment/Sprint3Documents/BilgiEkranı4.png)
+![Ürün11](/Project%20Managment/Sprint3Documents/HaritaEkranı.png)
+![Ürün12](/Project%20Managment/Sprint3Documents/TakvimEkranı.png)
+* **Sprint Review:** Uygulamayı yetiştirebilmek için bazı kısımlar yetiştiği kadarıyla bırakılmıştır. Bu Sprint bizim için hem öğretici hem de eğlenceliydi. Birbirimizi tanımış, vakit geçirmiş olduk.
 * **Sprint Retrospective:**
   -Kalan süreçte yapılması beklenenler temel olarak yapıldı ama daha detaylandırılabilirdi.
-* **Sprint Notu:**
+* **Sprint Notu:** 2.Sprintte kodlama yapmamış olmakla beraber bu Sprintte hızlanmamız iyi oldu.
