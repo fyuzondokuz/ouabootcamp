@@ -18,11 +18,11 @@ Uygulamamız, bu ihtiyaçları karşılamak için size rehberlik edecek ve hayva
 Uygulama, kedi, köpek ve kuşlar için özel olarak hazırlanmış içeriklerle doludur. Veterinerler, uzman hayvan bakıcıları ve eğitmenler tarafından sağlanan bilgilerle, hayvanınızın tüm sağlık ve bakım ihtiyaçlarını karşılamak için gerekli adımları atabilirsiniz. Sağlıklı beslenme,, tüy bakımı ve sürpriz bilgilerle birlikte daha birçok konuda değerli ipuçlarına ve tavsiyelere erişebilirsiniz.
 Ayrıca, uygulamamız, evcil hayvanlarınız için takvim ve veteriner konumu gibi özellikler bulundurmaktadır.
 Uygulamamızın kullanımı kolaydır ve kişiselleştirilmiş bir deneyim sunar. Hayvanlarınızın profilini oluşturarak, onların özelliklerini ve ihtiyaçlarını kaydedebilirsiniz.
-Uygulamamız, hayvanseverler için vazgeçilmez bir yardımcıdır. Hem kendi bilgi birikiminizi artırabilir, hem de evcil hayvanlarınızın sağlığı ve refahı için kişiselleştirebileceğiniz bir takvimi kullanabilirsiniz. Siz de ailemize katılın ve sevimli dostlarınızın daha sağlıklı ve mutlu bir yaşam sürdürmesine yardımcı olun!
+Uygulamamız, hayvanseverler için vazgeçilmez bir yardımcıdır. Hem kendi bilgi birikiminizi arttırabilir, hem de evcil hayvanlarınızın sağlığı ve refahı için kişiselleştirebileceğiniz bir takvimi kullanabilirsiniz. Siz de ailemize katılın ve sevimli dostlarınızın daha sağlıklı ve mutlu bir yaşam sürdürmesine yardımcı olun!
 ## Ürün Özellikleri
 * Hayvanlarımızın sağlığı hakkında doğru bilgiye ulaşabilirsiniz.
 * En yakın dostumuz olan hayvanlarımızı daha iyi anlayabilme imkanınız olur.
-* Bazı dostalarımızın türüne özel bilgilere ulaşma fırsatı elde ederiz.
+* Bazı dostalarımızın türüne özel(şimdilik sadece her hayvan için 1 tür) bilgilere ulaşma fırsatı elde ederiz.
 * Görev şeklinde ekleyebileceğiniz hatırlatmalarla aşı, tüy bakımı, kontrol vb. şeyleri takip edebilirsiniz.
 ## Hedef Kitle
 * Evcil hayvan sahipleri
@@ -57,16 +57,17 @@ Süreç boyunca birçok konuda değişim oldu. Olabildiğince birlikte çalış�
 *  **Ürün Durumu:** Maalesef üründe karar verilemeyen kısımlar olduğundan ve bu kısımlar sürekli ekle çıkar durumunda olduğundan bir ekleme ve çıkarma yapılmamıştır.
 *  **Sprint Review:** Alınan kararlar: İş bölümü yapıldı. Yetişmeme ihtimalinin yüksek olduğu ve bu durumda yedek olarak hesap makinesi uygulamasını hazır olarak bulundurma konuşuldu.
 *  **Sprint Retrospective:**
-   - Günlük göeüşmelere başlanacak.
+   - Günlük görüşmelere başlanacak.
 *  **Sprint Notu:** Genel olarak fikirin belirlenememesinden ve kalan sürenin azlığından endişeleniliyor.
 ## Product Backlog URL
 [Flutter Team 119 Miro Backlog Board](https://miro.com/app/board/uXjVMAgGfjw=/?share_link_id=652661104250)
 # Sprint 3
-* **Sprint içinde tamamlanması tahmin edilen puan:**
-* **Puan tamamlama mantığı:**
-* **Daily Scrum:**
-* **Sprint Board Update:**
+* **Sprint içinde tamamlanması tahmin edilen puan:** 115
+* **Puan tamamlama mantığı:** Tüm Sprintlerden kalan puanlar toplanmıştır.
+* **Daily Scrum:** Hemen hemen her gün toplanılmıştır. Çoğu zaman toplantıdan öte beraber çalışılmıştır. 
+* **Sprint Board Update:** Sprint board screenshotları:
 * **Ürünün Durumu:** Ekran görüntüleri;
 * **Sprint Review:**
 * **Sprint Retrospective:**
+  -Kalan süreçte yapılması beklenenler temel olarak yapıldı ama daha detaylandırılabilirdi.
 * **Sprint Notu:**
