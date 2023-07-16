@@ -67,8 +67,11 @@ class _CalendarScreenState extends State<CalendarScreen> {
     initializeDateFormatting('tr');
     return Scaffold(
       appBar: AppBar(
+        title: Text(
+          "Takvim",
+          style: TextStyle(color: Colors.black),
+        ),
         backgroundColor: Colors.white,
-        title: Text("Takvim"),
       ),
       body: content(),
     );
