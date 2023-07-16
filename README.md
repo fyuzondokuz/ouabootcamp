@@ -82,5 +82,5 @@ Süreç boyunca birçok konuda değişim oldu. Olabildiğince birlikte çalış�
 ![Ürün12](/Project%20Managment/Sprint3Documents/TakvimEkranı.png)
 * **Sprint Review:** Uygulamayı yetiştirebilmek için bazı kısımlar yetiştiği kadarıyla bırakılmıştır. Bu Sprint bizim için hem öğretici hem de eğlenceliydi. Birbirimizi tanımış, vakit geçirmiş olduk.
 * **Sprint Retrospective:**
-  -Kalan süreçte yapılması beklenenler temel olarak yapıldı ama daha detaylandırılabilirdi.
+  - Kalan süreçte yapılması beklenenler temel olarak yapıldı ama daha detaylandırılabilirdi.
 * **Sprint Notu:** 2.Sprintte kodlama yapmamış olmakla beraber bu Sprintte hızlanmamız iyi oldu.
