@@ -1,0 +1,2056 @@
+{
+"offices":[
+
+{
+"region" : "KADIKÖY",
+"name" : "Marmara Veteriner Kliniği",
+"address" : "Bahçeler Sk. No:3 FENERYOLU/KADIKÖY",
+"phone" : "0216 347 49 42",
+"lng" : 29.05070181700006,
+"lat" : 40.979645135000055
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Atalay Veteriner Kliniği",
+"address" : "Sinan Ercan Cad. No:6 19 MAYIS/KADIKÖY",
+"phone" : "0216 372 02 62",
+"lng" : 29.085751581000068,
+"lat" : 40.96939783500005
+},
+
+{
+"region" : "SİLİVRİ",
+"name" : "Merkez Veteriner Kliniği",
+"address" : "Haydar Arslan Sk. No:25 PİRİ MEHMET PAŞA/SİLİVRİ",
+"phone" : "0212 728 70 99",
+"lng" : 28.242870952000033,
+"lat" : 41.075874878000036
+},
+
+{
+"region" : "FATİH",
+"name" : "İBB Fatih Hayvan Hastanesi",
+"address" : "Su Yolu Sk. No:1 ZEYREK/FATİH",
+"phone" : "0212 45 373 71",
+"lng" : 28.95371646800004,
+"lat" : 41.016744440000025
+},
+
+{
+"region" : "SARIYER",
+"name" : "Bahçeköy Veteriner Kliniği",
+"address" : "Mareşal Fevzi Çakmak Cad. No:4 KEMER/SARIYER",
+"phone" : "0212 226 26 74",
+"lng" : 28.99076315700006,
+"lat" : 41.16950234900003
+},
+
+{
+"region" : "ÇATALCA",
+"name" : "Uzmanlar Veteriner Kliniği",
+"address" : "Atatürk Cad. No:32 FERHATPAŞA/ÇATALCA",
+"phone" : "0212 787 23 20",
+"lng" : 28.463822709000056,
+"lat" : 41.140741708000064
+},
+
+{
+"region" : "KÜÇÜKÇEKMECE",
+"name" : "Happy Vet Veteriner Kliniği",
+"address" : "Kırlangıç Sk. No:6 ATAKENT/KÜÇÜKÇEKMECE",
+"phone" : "0212 693 33 22",
+"lng" : 28.78646913500006,
+"lat" : 41.057053652000036
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Anaconda Veteriner Kliniği",
+"address" : "Atatürk Cad. No:34 SAHRAYICEDİT/KADIKÖY",
+"phone" : "0216 360 36 06",
+"lng" : 29.082053736000034,
+"lat" : 40.98110536400003
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Sahil Veteriner Hizmetleri",
+"address" : "Hamiyet Yüceses Sk. No:4 SUADIYE/KADIKÖY",
+"phone" : "0216 355 10 46",
+"lng" : 29.07600820300007,
+"lat" : 40.96107223800004
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Animal Doctors Veteriner Kliniği",
+"address" : "Muallim Naci Cad. No:49 ORTAKÖY/BEŞİKTAŞ",
+"phone" : "0212 261 51 22",
+"lng" : 29.027864544000067,
+"lat" : 41.04899568400003
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Ada Veteriner Kliniği",
+"address" : "Sülün Sk. No:14 LEVENT/BEŞİKTAŞ",
+"phone" : "0212 324 67 32 - 33",
+"lng" : 29.019492709000076,
+"lat" : 41.07735656500006
+},
+
+{
+"region" : "SARIYER",
+"name" : "Petlife Veteriner Kliniği",
+"address" : "Dereiçi Sk. No:35 TARABYA/SARIYER",
+"phone" : "0212 262 99 85",
+"lng" : 29.052381512000068,
+"lat" : 41.13681188900006
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Animallia Veteriner Kliniği",
+"address" : "Arnavutköy Yolu No:36 KÜLTÜR/BEŞİKTAŞ",
+"phone" : "0212 287 70 35",
+"lng" : 29.034545251000054,
+"lat" : 41.07559013800005
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Pati-Pata Veteriner Kliniği",
+"address" : "Yıldızçiçeği Sk. No:12 ETİLER/BEŞİKTAŞ",
+"phone" : "0212 257 00 41",
+"lng" : 29.03135101400005,
+"lat" : 41.08093582600003
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Mamacı Petshop",
+"address" : "Fırın Sk. No:34 ERENKÖY/KADIKÖY",
+"phone" : "0216 467 23 55",
+"lng" : 29.07468700000004,
+"lat" : 40.972792999000035
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Planet Pet Veteriner Kliniği",
+"address" : "Süleymanbey Sk. No:11 GAYRETTEPE/BEŞİKTAŞ",
+"phone" : "0212 267 40 69 - 70",
+"lng" : 29.006625894000024,
+"lat" : 41.065393537000034
+},
+
+{
+"region" : "ŞİŞLİ",
+"name" : "Petito Veteriner Kliniği",
+"address" : "Reha Yurdakul Sk. No:5 MERKEZ/ŞİŞLİ",
+"phone" : "0212 241 24 69",
+"lng" : 28.98667437000006,
+"lat" : 41.063607422000075
+},
+
+{
+"region" : "FATİH",
+"name" : "Kızılelma Veteriner Kliniği",
+"address" : "Emrullah Efendi Sk. No:84 SEYYİD ÖMER/FATİH",
+"phone" : "0212 585 65 82",
+"lng" : 28.93677425900006,
+"lat" : 41.00892262600007
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Vetland Veteriner Kliniği",
+"address" : "Değirmen Sk. No:13C KOZYATAĞI/KADIKÖY",
+"phone" : "0216 410 36 80",
+"lng" : 29.098629207000045,
+"lat" : 40.97467153700006
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Friends Moda Veteriner Polikliniği",
+"address" : "Moda Cad. No:139 CAFERAĞA/KADIKÖY",
+"phone" : "0216 346 61 74",
+"lng" : 29.023449584000048,
+"lat" : 40.98227094500004
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "All Animal Veteriner Kliniği",
+"address" : "Mustafa Mazharbey Sk. No:63 FENERYOLU/KADIKÖY",
+"phone" : "0216 567 47 17",
+"lng" : 29.055826350000075,
+"lat" : 40.981068837000066
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Royal Canin Veteriner",
+"address" : "Bağdat Cad. No:139 FENERYOLU/KADIKÖY",
+"phone" : "",
+"lng" : 29.048458409000034,
+"lat" : 40.97722242400005
+},
+
+{
+"region" : "ŞİŞLİ",
+"name" : "Şişli Veteriner Kliniği",
+"address" : "Koca Mansur Sk. No:27 MERKEZ/ŞİŞLİ",
+"phone" : "0212 241 26 24",
+"lng" : 28.986260000000073,
+"lat" : 41.060399999000026
+},
+
+{
+"region" : "SİLİVRİ",
+"name" : "Veteriner Kliniği Gökhan Pakel",
+"address" : "KADIKÖY Bağları Cad. No:96 KADIKÖY/SİLİVRİ",
+"phone" : "0542 717 85 88",
+"lng" : 28.36472114700007,
+"lat" : 41.13608927900003
+},
+
+{
+"region" : "KAĞITHANE",
+"name" : "Vetistanbul Veteriner Kliniği",
+"address" : "Eyüp Sultan Cad. No:9 MERKEZ/KAĞITHANE",
+"phone" : "0212 295 56 02",
+"lng" : 28.97012846000007,
+"lat" : 41.079911062000065
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Vethouse Veteriner Kliniği",
+"address" : "Acıbadem Cad. No:60 ACIBADEM/KADIKÖY",
+"phone" : "0216 428 56 57",
+"lng" : 29.036784987000033,
+"lat" : 40.997220534000064
+},
+
+{
+"region" : "TUZLA",
+"name" : "Güven Veteriner Kliniği",
+"address" : "Tahir Sk. No:23 TEPEÖREN/TUZLA",
+"phone" : "0216 304 27 20",
+"lng" : 29.38907158300003,
+"lat" : 40.909200551000026
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "D Park Veteriner Kliniği",
+"address" : "Süleymanpaşa Sk. No:78 OSMANAĞA/KADIKÖY",
+"phone" : "0216 336 90 78",
+"lng" : 29.03343211600003,
+"lat" : 40.98750205500005
+},
+
+{
+"region" : "BAKIRKÖY",
+"name" : "Bakırköy Veteriner Kliniği",
+"address" : "Başarı Sk. No:17 KARTALTEPE/BAKIRKÖY",
+"phone" : "0212 543 47 21",
+"lng" : 28.87259946200004,
+"lat" : 40.992593845000044
+},
+
+{
+"region" : "ÜSKÜDAR",
+"name" : "Beylerbeyi Veteriner Kliniği",
+"address" : "Abdullahağa Cad. No:4/1 BEYLERBEYİ/ÜSKÜDAR",
+"phone" : "0216 318 58 08",
+"lng" : 29.04401157600006,
+"lat" : 41.04397538400008
+},
+
+{
+"region" : "BAKIRKÖY",
+"name" : "Benek Veteriner Kliniği",
+"address" : "Vankulu Sk. No:45A ZUHURATBABA/BAKIRKÖY",
+"phone" : "0212 660 69 02",
+"lng" : 28.86917421000004,
+"lat" : 40.98562743900004
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "İstasyon Veteriner",
+"address" : "Bostan Tariki Sk. No:8 BOSTANCI/KADIKÖY",
+"phone" : "0216 384 56 08",
+"lng" : 29.097355417000074,
+"lat" : 40.95504677900004
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Snoopy Veteriner Polikliniği",
+"address" : "Emin Alipaşa Cad. No:73 BOSTANCI/KADIKÖY",
+"phone" : "0216 362 07 92",
+"lng" : 29.09246431300005,
+"lat" : 40.95972958200008
+},
+
+{
+"region" : "BAKIRKÖY",
+"name" : "Florya Doğa Veteriner Kliniği",
+"address" : "Tezgel Sk. No:6 ŞENLİKKÖY/BAKIRKÖY",
+"phone" : "0212 662 22 42",
+"lng" : 28.794342913000037,
+"lat" : 40.98170578000003
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Can Dostum Veteriner Kliniği",
+"address" : "Feneryolu Hatboyu Sk. No:4 FENERYOLU/KADIKÖY",
+"phone" : "0216 411 79 05 - 0532 622 84 41",
+"lng" : 29.047655767000037,
+"lat" : 40.97887596000004
+},
+
+{
+"region" : "BAKIRKÖY",
+"name" : "Veliefendi Veteriner",
+"address" : "Çoban Çeşme Sk. No:4 OSMANİYE/BAKIRKÖY",
+"phone" : "0212 660 81 36",
+"lng" : 28.886191137000026,
+"lat" : 40.994309017000035
+},
+
+{
+"region" : "EYÜPSULTAN",
+"name" : "Göktürk Veteriner Kliniği",
+"address" : "İstanbul Cad. No:48A GÖKTÜRK MERKEZ/EYÜPSULTAN",
+"phone" : "0212 322 78 22",
+"lng" : 28.881199493000054,
+"lat" : 41.184991370000034
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Vetline Hayvan Hastanesi",
+"address" : "Dr. Esat Işık Cad. No:81 CAFERAĞA/KADIKÖY",
+"phone" : "0216 414 20 11",
+"lng" : 29.030030200000056,
+"lat" : 40.98332245900008
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Koşuyolu Pet Veteriner Kliniği",
+"address" : "Mahmut Yesari Cad. No:10 KOŞUYOLU/KADIKÖY",
+"phone" : "0216 326 75 67",
+"lng" : 29.037233169000046,
+"lat" : 41.01072672500004
+},
+
+{
+"region" : "ESENYURT",
+"name" : "Cor-Vet Veteriner Kliniği",
+"address" : "Hadımköy Yolu Cad. No:56 OSMANGAZİ/ESENYURT",
+"phone" : "0212 886 36 35",
+"lng" : 28.62859447900007,
+"lat" : 41.052964434000046
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Reaminal Veteriner Kliniği",
+"address" : "Panaroma Sk. No:38 SAHRAYICEDİT/KADIKÖY",
+"phone" : "0216 355 29 95",
+"lng" : 29.086695948000056,
+"lat" : 40.979579159000025
+},
+
+{
+"region" : "ÜSKÜDAR",
+"name" : "Akademi Veteriner Kliniği",
+"address" : "Çengelköy Cad. No:42A ÇENGELKÖY/ÜSKÜDAR",
+"phone" : "0216 422 37 88",
+"lng" : 29.054130732000033,
+"lat" : 41.049697250000065
+},
+
+{
+"region" : "ATAŞEHİR",
+"name" : "Petonya Veteriner Kliniği",
+"address" : "Ataşehir Bulvarı No:5 ATATÜRK/ATAŞEHİR",
+"phone" : "0216 629 05 45",
+"lng" : 29.117927961000078,
+"lat" : 40.992192912000064
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Ködi Veteriner Polikliniği",
+"address" : "Çolak İsmail Sk. No:9 SUADIYE/KADIKÖY",
+"phone" : "0216 478 07 67",
+"lng" : 29.08047132200005,
+"lat" : 40.963520783000035
+},
+
+{
+"region" : "BAŞAKŞEHİR",
+"name" : "Ovacık Veteriner Kliniği",
+"address" : "İstiklal Cad. No:2 ŞAMLAR/BAŞAKŞEHİR",
+"phone" : "0212 691 12 48",
+"lng" : 28.748048636000078,
+"lat" : 41.12420222900005
+},
+
+{
+"region" : "EYÜPSULTAN",
+"name" : "Haliç Veteriner Kliniği",
+"address" : "Vardar Bulvarı No:19 ALİBEYKÖY/EYÜPSULTAN",
+"phone" : "0212 626 50 40",
+"lng" : 28.944089031000033,
+"lat" : 41.07575172400004
+},
+
+{
+"region" : "EYÜPSULTAN",
+"name" : "Animal Life Veteriner Kliniği",
+"address" : "Açelya Sk. No:4 GÖKTÜRK MERKEZ/EYÜPSULTAN",
+"phone" : "0212 322 68 81",
+"lng" : 28.886510326000064,
+"lat" : 41.17996380300008
+},
+
+{
+"region" : "BAŞAKŞEHİR",
+"name" : "Mert Veteriner Kliniği",
+"address" : "Mutlu Çıkmazı Sk. No:4 KAYABAŞI/BAŞAKŞEHİR",
+"phone" : "0212 691 18 21",
+"lng" : 28.742423898000027,
+"lat" : 41.11128640100003
+},
+
+{
+"region" : "BEYOĞLU",
+"name" : "Pıtış Evcil Havan Kliniği",
+"address" : "Samanyolu Sk. No:28 PÜRTELAŞ HASAN EFENDİ/BEYOĞLU",
+"phone" : "0212 251 24 64",
+"lng" : 28.986397155000077,
+"lat" : 41.03053493400006
+},
+
+{
+"region" : "ATAŞEHİR",
+"name" : "Animalist Veteriner Kliniği",
+"address" : "Sedef Cad. No:11 ATATÜRK/ATAŞEHİR",
+"phone" : "0216 456 74 52",
+"lng" : 29.119688729000075,
+"lat" : 40.99219790500007
+},
+
+{
+"region" : "BAHÇELİEVLER",
+"name" : "Bahçelievler Veteriner Kliniği",
+"address" : "Ali Reşat Sk. No:12A BAHÇELİEVLER/BAHÇELİEVLER",
+"phone" : "0212 554 24 82",
+"lng" : 28.86774884500005,
+"lat" : 41.002134166000076
+},
+
+{
+"region" : "BAHÇELİEVLER",
+"name" : "Dost Veteriner Kliniği",
+"address" : "Çöre Otu Sk. No:1 BAHÇELİEVLER/BAHÇELİEVLER",
+"phone" : "0212 557 02 01",
+"lng" : 28.863684868000064,
+"lat" : 41.004724735000025
+},
+
+{
+"region" : "BAKIRKÖY",
+"name" : "Shining Pets Veteriner",
+"address" : "Şükran Çiftliği Sk. No:25 ZUHURATBABA/BAKIRKÖY",
+"phone" : "0212 542 42 48 - 0535 412 67 22",
+"lng" : 28.870985907000033,
+"lat" : 40.981002544000035
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Petosphere Veteriner",
+"address" : "Çuha Çiçeği Sk. No:1/1 FENERBAHÇE/KADIKÖY",
+"phone" : "0216 700 21 26",
+"lng" : 29.04048599500004,
+"lat" : 40.982115270000065
+},
+
+{
+"region" : "GÜNGÖREN",
+"name" : "Beethoven Veteriner Kliniği",
+"address" : "Altay Sk. No:2 ABDURRAHMAN NAFİZ GÜRMAN/GÜNGÖREN",
+"phone" : "0212 505 97 21",
+"lng" : 28.889512543000023,
+"lat" : 41.00752393800008
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Veteriner Kliniği Vet. Hekim Cenk Çarçafcıoğlu",
+"address" : "Halay Sk. No:21 SUADIYE/KADIKÖY",
+"phone" : "0216 384 54 41",
+"lng" : 29.087837645000036,
+"lat" : 40.96346307700003
+},
+
+{
+"region" : "AVCILAR",
+"name" : "Efe Veteriner Kliniği",
+"address" : "Çiğdem Cad. No:24 MERKEZ/AVCILAR",
+"phone" : "0212 694 17 32 - 0212 694 51 22",
+"lng" : 28.723808000000076,
+"lat" : 40.981632999000055
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Ortaköy Veteriner Kliniği",
+"address" : "Lozan Sk. No:12 MECİDİYE/BEŞİKTAŞ",
+"phone" : "0212 236 23 73",
+"lng" : 29.022856886000056,
+"lat" : 41.052606973000024
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Hayat Veteriner Kliniği",
+"address" : "Müverrih Sadettin Sk. No:24 MECİDİYE/BEŞİKTAŞ",
+"phone" : "0212 258 24 60",
+"lng" : 29.02424299300003,
+"lat" : 41.050405633000025
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Etiler Veteriner Kliniği",
+"address" : "Şehit Erdoğan İban Sk. No:8 AKAT/BEŞİKTAŞ",
+"phone" : "0212 351 97 38",
+"lng" : 29.025719328000037,
+"lat" : 41.08313005200006
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Pets Veteriner Merkezi",
+"address" : "Rüştiye Sk. No:4/1 ZÜHTÜPAŞA/KADIKÖY",
+"phone" : "0216 347 03 25",
+"lng" : 29.03960637800003,
+"lat" : 40.98307917900007
+},
+
+{
+"region" : "ŞİŞLİ",
+"name" : "Kurtuluş Veteriner Kliniği",
+"address" : "Kurtuluş Cad. No:46 DUATEPE/ŞİŞLİ",
+"phone" : "0212 225 98 57",
+"lng" : 28.983236404000024,
+"lat" : 41.051307895000036
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Dog Cat Veteriner Kliniği",
+"address" : "Manolya Sk. No:6 BEBEK/BEŞİKTAŞ",
+"phone" : "0532 254 83 06",
+"lng" : 29.042844755000033,
+"lat" : 41.07756972300007
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Beşiktaş Veteriner Kliniği",
+"address" : "Mısırlıbahçe Sk. No:10 TÜRKALİ/BEŞİKTAŞ",
+"phone" : "0212 259 31 88",
+"lng" : 29.002450001000057,
+"lat" : 41.04497383300003
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Bnc Veteriner Kliniği",
+"address" : "Oral Sk. No:15 19 MAYIS/KADIKÖY",
+"phone" : "0216 380 03 83",
+"lng" : 29.087852825000027,
+"lat" : 40.96769553000007
+},
+
+{
+"region" : "GAZİOSMANPAŞA",
+"name" : "Özel Gaziosmanpaşa Veteriner Kliniği",
+"address" : "Eflak Sk. No:2 MERKEZ/GAZİOSMANPAŞA",
+"phone" : "0212 417 88 92",
+"lng" : 28.909849991000044,
+"lat" : 41.05826015300005
+},
+
+{
+"region" : "TUZLA",
+"name" : "Atam Veteriner Kliniği",
+"address" : "Azimli Sk. No:2 TEPEÖREN/TUZLA",
+"phone" : "0216 304 10 50",
+"lng" : 29.38979383800006,
+"lat" : 40.90989565700005
+},
+
+{
+"region" : "BEYOĞLU",
+"name" : "Vet Center Veteriner Kliniği",
+"address" : "Bakraç Sk. No:24 CİHANGİR/BEYOĞLU",
+"phone" : "0212 244 72 97",
+"lng" : 28.984020503000067,
+"lat" : 41.03182003400008
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Moda Veteriner Kliniği",
+"address" : "Mühürdar Cad. No:101 CAFERAĞA/KADIKÖY",
+"phone" : "0216 414 48 00",
+"lng" : 29.021753312000044,
+"lat" : 40.98643043000004
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Pet Nature",
+"address" : "Elmalıçeşme Sk. No:10 RASİMPAŞA/KADIKÖY",
+"phone" : "0216 330 97 40",
+"lng" : 29.03156583300006,
+"lat" : 40.99313212900006
+},
+
+{
+"region" : "FATİH",
+"name" : "Yaşam Veteriner Kliniği",
+"address" : "Turgut Özal Millet Cad. No:170 TOPKAPI/FATİH",
+"phone" : "0212 621 46 06",
+"lng" : 28.92964338300004,
+"lat" : 41.01742509800005
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Panvet Veteriner Kliniği",
+"address" : "Bakır Sk. No:6 NİSBETİYE/BEŞİKTAŞ",
+"phone" : "0534 211 01 21",
+"lng" : 29.028123719000064,
+"lat" : 41.07223228500004
+},
+
+{
+"region" : "GAZİOSMANPAŞA",
+"name" : "Megavet Veteriner Kliniği",
+"address" : "Ecla Sk. No:5 MERKEZ/GAZİOSMANPAŞA",
+"phone" : "0212 545 45 15 - 0532 240 41 32",
+"lng" : 28.91479055700006,
+"lat" : 41.056477406000056
+},
+
+{
+"region" : "ÜMRANİYE",
+"name" : "Elit Veteriner Kliniği",
+"address" : "Reyhan Sk. No:6 MEHMET AKİF/ÜMRANİYE",
+"phone" : "0216 364 05 50",
+"lng" : 29.131846550000034,
+"lat" : 41.00801841900005
+},
+
+{
+"region" : "ÜSKÜDAR",
+"name" : "Veterinerim Pet Kliniği",
+"address" : "Cumhuriyet Cad. No:50 SELAMİ ALİ/ÜSKÜDAR",
+"phone" : "0216 553 12 03",
+"lng" : 29.03208619000003,
+"lat" : 41.02726434300007
+},
+
+{
+"region" : "TUZLA",
+"name" : "Güven Veteriner",
+"address" : "Tevfik Sk. No:7 TEPEÖREN/TUZLA",
+"phone" : "0216 304 12 55",
+"lng" : 29.39173500000004,
+"lat" : 40.90856500000007
+},
+
+{
+"region" : "BAKIRKÖY",
+"name" : "Doğuş Veteriner Tedavi ve Bakım Evi",
+"address" : "Sarı Yakup Sk. No:2 B YEŞİLKÖY/BAKIRKÖY",
+"phone" : "0212 574 04 00",
+"lng" : 28.821820839000054,
+"lat" : 40.96226552600007
+},
+
+{
+"region" : "MALTEPE",
+"name" : "Forvet Veteriner Kliniği",
+"address" : "Şehit Nedim Özpolat Sk. No:2C YALI/MALTEPE",
+"phone" : "0216 457 66 89",
+"lng" : 29.13199119500007,
+"lat" : 40.92023848400004
+},
+
+{
+"region" : "ATAŞEHİR",
+"name" : "İçerenköy Veteriner Kliniği",
+"address" : "Prof. Dr. Necmettin Erbakan Cad. No:55 İÇERENKÖY/ATAŞEHİR",
+"phone" : "0216 576 90 98",
+"lng" : 29.120708000000036,
+"lat" : 40.974454998000056
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Maçka Veteriner Kliniği",
+"address" : "Refik Osman Top Sk. No:5 VİŞNEZADE/BEŞİKTAŞ",
+"phone" : "0212 327 38 25",
+"lng" : 29.000527503000058,
+"lat" : 41.04283192300005
+},
+
+{
+"region" : "KÜÇÜKÇEKMECE",
+"name" : "Cennet Veteriner Kliniği",
+"address" : "Hürriyet Cad. No:8 CENNET/KÜÇÜKÇEKMECE",
+"phone" : "0212 541 13 95",
+"lng" : 28.782043620000024,
+"lat" : 40.98631862500008
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Artı Veteriner Kliniği",
+"address" : "Ülgen Sk. No:37 LEVENT/BEŞİKTAŞ",
+"phone" : "0212 281 73 54",
+"lng" : 29.019788078000033,
+"lat" : 41.08590227700006
+},
+
+{
+"region" : "BAKIRKÖY",
+"name" : "Family Veteriner Kliniği",
+"address" : "Gülbeşeker Sk. No:31 KARTALTEPE/BAKIRKÖY",
+"phone" : "0212 542 08 07",
+"lng" : 28.87724823600007,
+"lat" : 40.98384471300005
+},
+
+{
+"region" : "AVCILAR",
+"name" : "Minion Veteriner Kliniği",
+"address" : "Dr. Sadık Ahmet Cad. (Ambarlı Küçükçekmece Yolu) No:6 AMBARLI/AVCILAR",
+"phone" : "0212 591 81 73",
+"lng" : 28.715691462000052,
+"lat" : 40.97351052600004
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Hayvan Hastanesi",
+"address" : "Mustafa İzzet Efendi Sk. No:5/1 MECİDİYE/BEŞİKTAŞ",
+"phone" : "0212 274 63 64",
+"lng" : 29.016681179000045,
+"lat" : 41.05571189400007
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Gizli Bahçe Veteriner Kliniği",
+"address" : "Mehmet Akfan Sk. No:63 KOŞUYOLU/KADIKÖY",
+"phone" : "0216 545 89 55",
+"lng" : 29.038994622000075,
+"lat" : 41.00764220800005
+},
+
+{
+"region" : "MALTEPE",
+"name" : "Bilge Veteriner Kliniği",
+"address" : "Serap Cad. No:51 FEYZULLAH/MALTEPE",
+"phone" : "0212 370 33 64",
+"lng" : 29.124256482000078,
+"lat" : 40.93134845700007
+},
+
+{
+"region" : "SANCAKTEPE",
+"name" : "Pet Doctor Veteriner Kliniği",
+"address" : "Sevenler Cad. No:57 ABDURRAHMANGAZİ/SANCAKTEPE",
+"phone" : "0216 621 18 65",
+"lng" : 29.22705897800006,
+"lat" : 40.99983146200003
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Anatolia Hayvan Hastanesi",
+"address" : "Nurettin Ali Berkol Sk. No:1 SUADIYE/KADIKÖY",
+"phone" : "0216 411 40 77 - 78",
+"lng" : 29.07850477100004,
+"lat" : 40.96458146200007
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Axis Veteriner",
+"address" : "Hafız İmam Sk. No:6BB SAHRAYICEDİT/KADIKÖY",
+"phone" : "0216 478 24 64",
+"lng" : 29.078197670000066,
+"lat" : 40.98156569300005
+},
+
+{
+"region" : "BAKIRKÖY",
+"name" : "Animal Health Center Veteriner Kliniği",
+"address" : "Bestekar Rauf Yekta Sk. No:14 ZUHURATBABA/BAKIRKÖY",
+"phone" : "0212 571 83 04",
+"lng" : 28.869375497000078,
+"lat" : 40.982313687000044
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Levent Veteriner Kliniği",
+"address" : "Nisbetiye Cad. No:1L NİSBETİYE/BEŞİKTAŞ",
+"phone" : "0212 352 42 08 - 0212 352 57 15",
+"lng" : 29.02365233200004,
+"lat" : 41.077006923000056
+},
+
+{
+"region" : "ŞİLE",
+"name" : "Şile Veteriner Kliniği",
+"address" : "Cumhuriyet Cad. No:110 ÇAVUŞ/ŞİLE",
+"phone" : "0216 710 30 29",
+"lng" : 29.608794000000046,
+"lat" : 41.16969099900007
+},
+
+{
+"region" : "MALTEPE",
+"name" : "Pedaliza Veteriner Klinigi",
+"address" : "Barbaros Hayrettin Sk. No:3 KÜÇÜKYALI MERKEZ/MALTEPE",
+"phone" : "0216 367 47 00",
+"lng" : 29.106776677000028,
+"lat" : 40.94676988500004
+},
+
+{
+"region" : "KÜÇÜKÇEKMECE",
+"name" : "North Veteriner Kliniği",
+"address" : "Kuşlar Tepesi Cad. No:2 ATAKENT/KÜÇÜKÇEKMECE",
+"phone" : "0212 548 00 21",
+"lng" : 28.790507646000037,
+"lat" : 41.056824274000064
+},
+
+{
+"region" : "KAĞITHANE",
+"name" : "Avrupa Veteriner Kliniği",
+"address" : "Kemerburgaz Cad. No:8 MERKEZ/KAĞITHANE",
+"phone" : "0212 294 20 23",
+"lng" : 28.972737806000055,
+"lat" : 41.08244578600005
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Kulübe Veteriner Polikliniği",
+"address" : "Ethemefendi Cad. No:107 ERENKÖY/KADIKÖY",
+"phone" : "0216 467 45 25",
+"lng" : 29.075895699000057,
+"lat" : 40.97606790100008
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Hospetall Veteriner",
+"address" : "Muhittin Üstündağ Cad. No:7 KOŞUYOLU/KADIKÖY",
+"phone" : "0216 545 35 25",
+"lng" : 29.03672044700005,
+"lat" : 41.00608340100007
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Cat Dog Veteriner Kliniği",
+"address" : "Bayar Cad. No:38 KOZYATAĞI/KADIKÖY",
+"phone" : "0216 362 58 71",
+"lng" : 29.094289703000072,
+"lat" : 40.97390521500006
+},
+
+{
+"region" : "ÜSKÜDAR",
+"name" : "Petsinn Veteriner Kliniği",
+"address" : "Yalıboyu Cad. No:33/1A BEYLERBEYİ/ÜSKÜDAR",
+"phone" : "0216 422 43 72",
+"lng" : 29.04911755300003,
+"lat" : 41.04578937400004
+},
+
+{
+"region" : "MALTEPE",
+"name" : "Megavet Veteriner Kliniği",
+"address" : "İncilik Sk.  No:11 BAĞLARBAŞI/MALTEPE",
+"phone" : "0216 305 35 05",
+"lng" : 29.138360341000066,
+"lat" : 40.934136178000074
+},
+
+{
+"region" : "BEYKOZ",
+"name" : "Pet Health Veteriner Kliniği",
+"address" : "Ayhan Çıkmazı No:83 İNCİRKÖY/BEYKOZ",
+"phone" : "0216 322 76 76",
+"lng" : 29.12354577900004,
+"lat" : 41.11852594900006
+},
+
+{
+"region" : "BÜYÜKÇEKMECE",
+"name" : "Kumburgaz Cadde Veteriner Kliniği",
+"address" : "İstanbul Cad. No:642 KUMBURGAZ/BÜYÜKÇEKMECE",
+"phone" : "0212 885 88 85",
+"lng" : 28.456793883000046,
+"lat" : 41.029810370000064
+},
+
+{
+"region" : "GÜNGÖREN",
+"name" : "Merter Veteriner Kliniği",
+"address" : "General Ali Rıza Gürcan Cad. No:1 ABDURRAHMAN NAFİZ GÜRMAN/GÜNGÖREN",
+"phone" : "0212 642 70 72",
+"lng" : 28.886512994000043,
+"lat" : 41.00292398000005
+},
+
+{
+"region" : "BAHÇELİEVLER",
+"name" : "Panda Veteriner Kliniği",
+"address" : "Narlı 1 Sk. No:5 BAHÇELİEVLER/BAHÇELİEVLER",
+"phone" : "0212 502 87 08",
+"lng" : 28.871459181000034,
+"lat" : 41.00428261400003
+},
+
+{
+"region" : "FATİH",
+"name" : "Patiler Veteriner Kliniği",
+"address" : "Cevdetpaşa Cad. No:16 SEYYİD ÖMER/FATİH",
+"phone" : "0212 586 36 47",
+"lng" : 28.93285221800005,
+"lat" : 41.00944523600003
+},
+
+{
+"region" : "BÜYÜKÇEKMECE",
+"name" : "Bonny Veteriner Kliniği",
+"address" : "Sümbül Sk. No:13 ATATÜRK/BÜYÜKÇEKMECE",
+"phone" : "0212 881 92 80",
+"lng" : 28.599669386000073,
+"lat" : 41.014515981000045
+},
+
+{
+"region" : "BÜYÜKÇEKMECE",
+"name" : "Uğur Veteriner Kliniği",
+"address" : "Turgut Özal Bulvarı No:4 ATATÜRK/BÜYÜKÇEKMECE",
+"phone" : "0212 882 70 29",
+"lng" : 28.594112051000025,
+"lat" : 41.01725785600007
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Petvet Veteriner Kliniği",
+"address" : "Emirhan Cad. No:81-83 DİKİLİTAŞ/BEŞİKTAŞ",
+"phone" : "0212 236 23 11",
+"lng" : 29.004931488000068,
+"lat" : 41.05649148300006
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Artemis Veteriner Kliniği",
+"address" : "Hoşgörü Sk. No:4 MERDİVENKÖY/KADIKÖY",
+"phone" : "0216 411 21 45",
+"lng" : 29.07515812200006,
+"lat" : 40.98075451100004
+},
+
+{
+"region" : "BAYRAMPAŞA",
+"name" : "Kronik Veteriner Kliniği",
+"address" : "Eski Edirne Asfaltı No:379 CEVATPAŞA/BAYRAMPAŞA",
+"phone" : "0212 479 44 42",
+"lng" : 28.88722676100008,
+"lat" : 41.07279769500008
+},
+
+{
+"region" : "ESENYURT",
+"name" : "Yaşam Veteriner Kliniği",
+"address" : "Sultan Murat Cad. No:25E GÜZELYURT/ESENYURT",
+"phone" : "0212 852 99 09",
+"lng" : 28.659845700000062,
+"lat" : 41.01212996100003
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Hera Veteriner Klinigi",
+"address" : "Şair Latifi Sk. No:1 CAFERAĞA/KADIKÖY",
+"phone" : "0216 345 63 16",
+"lng" : 29.027108372000043,
+"lat" : 40.98474253400008
+},
+
+{
+"region" : "ZEYTİNBURNU",
+"name" : "Sahipsiz Hayvan Geçici Bakımevi",
+"address" : "Seyitnizam Cad. No:218 KAZLIÇEŞME/ZEYTİNBURNU",
+"phone" : "0212 416 93 12",
+"lng" : 28.919611426000074,
+"lat" : 41.00567207200004
+},
+
+{
+"region" : "KARTAL",
+"name" : "Kartal Veteriner Kliniği",
+"address" : "Üsküdar Cad. No:62 PETROL İŞ/KARTAL",
+"phone" : "0216 350 93 00",
+"lng" : 29.178213722000066,
+"lat" : 40.89056267700005
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Kozyatağı Veteriner Kliniği",
+"address" : "İnönü Cad. No:91D 19 MAYIS/KADIKÖY",
+"phone" : "0216 416 41 97",
+"lng" : 29.094038390000037,
+"lat" : 40.97813598300007
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Vetelite Veteriner Kliniği",
+"address" : "Kuzu Sk. No:10A SUADIYE/KADIKÖY",
+"phone" : "0216 478 15 95",
+"lng" : 29.076188666000064,
+"lat" : 40.95921011900003
+},
+
+{
+"region" : "GAZİOSMANPAŞA",
+"name" : "Pets Life Veteriner Kliniği",
+"address" : "Ordu Cad. No:143-145 YENİDOĞAN/GAZİOSMANPAŞA",
+"phone" : "0212 583 30 01",
+"lng" : 28.924644380000075,
+"lat" : 41.05824794700004
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Felis Veteriner Kliniği",
+"address" : "Seheryıldızı Sk. No:40 ETİLER/BEŞİKTAŞ",
+"phone" : "0212 352 69 70",
+"lng" : 29.034061364000024,
+"lat" : 41.08544820700007
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Pupila Veteriner Kıliniği",
+"address" : "Yanarsu Sk. No:18/1 ETİLER/BEŞİKTAŞ",
+"phone" : "0212 257 17 93",
+"lng" : 29.034957097000074,
+"lat" : 41.08490049000005
+},
+
+{
+"region" : "ÇEKMEKÖY",
+"name" : "La Fontaine Veteriner Kliniği",
+"address" : "Said Nursi Cad. No:2 HAMİDİYE/ÇEKMEKÖY",
+"phone" : "0216 642 50 72",
+"lng" : 29.189133234000053,
+"lat" : 41.028176675000054
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Veterinerium",
+"address" : "Beyazkaranfil Sk. No:34 LEVENT/BEŞİKTAŞ",
+"phone" : "0212 278 88 87",
+"lng" : 29.012633006000044,
+"lat" : 41.08463019900006
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Myvet Veteriner Kliniği",
+"address" : "Ayçil Sk. No:24 KOZYATAĞI/KADIKÖY",
+"phone" : "0216 464 53 71",
+"lng" : 29.093286241000044,
+"lat" : 40.96425224800004
+},
+
+{
+"region" : "BAKIRKÖY",
+"name" : "Öztay Veteriner Klübü",
+"address" : "İsmail Erez Bulvarı No:4 OSMANİYE/BAKIRKÖY",
+"phone" : "0212 570 46 83",
+"lng" : 28.88656133300003,
+"lat" : 40.99533760500003
+},
+
+{
+"region" : "SARIYER",
+"name" : "Green Pet Veteriner Kliniği",
+"address" : "Sarıyer Cad. No:99/1 POLİGON/SARIYER",
+"phone" : "0212 229 12 14",
+"lng" : 29.040637599000036,
+"lat" : 41.12140404400003
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Lucky Veteriner Kliniği",
+"address" : "Osman Nuri Ergin Sk. No:9 SAHRAYICEDİT/KADIKÖY",
+"phone" : "0216 386 77 52",
+"lng" : 29.08383834500006,
+"lat" : 40.98281259400005
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Minouvet",
+"address" : "Acıbadem Cad. No:111 ACIBADEM/KADIKÖY",
+"phone" : "0216 428 06 41",
+"lng" : 29.045312654000043,
+"lat" : 41.005190173000074
+},
+
+{
+"region" : "ŞİŞLİ",
+"name" : "Fulyavet Veteriner Kliniği",
+"address" : "Avni Dilligil Sk. No:2 GÜLBAHAR/ŞİŞLİ",
+"phone" : "0212 288 46 44",
+"lng" : 29.002724000000057,
+"lat" : 41.07023699900003
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Pako Veteriner Kliniği",
+"address" : "Arnavutköy Kuruçeşme Cad. No:53 KURUÇEŞME/BEŞİKTAŞ",
+"phone" : "0212 257 00 69",
+"lng" : 29.03818362000004,
+"lat" : 41.06171184600004
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Eren Veteriner Kliniği",
+"address" : "Yücel Sk. No:20 NİSBETİYE/BEŞİKTAŞ",
+"phone" : "0212 280 60 50",
+"lng" : 29.019794793000074,
+"lat" : 41.07112181600007
+},
+
+{
+"region" : "BÜYÜKÇEKMECE",
+"name" : "Dev Vet Veteriner Kliniği",
+"address" : "Çarmıklı Cad. No:25A2 SİNANOBA/BÜYÜKÇEKMECE",
+"phone" : "0536 241 03 66",
+"lng" : 28.534329338000077,
+"lat" : 40.997748116000025
+},
+
+{
+"region" : "BÜYÜKÇEKMECE",
+"name" : "Atrium Veteriner Kliniği",
+"address" : "Fatih 1 Cad. No:29 MİMAROBA/BÜYÜKÇEKMECE",
+"phone" : "0212 863 05 83",
+"lng" : 28.53229004700006,
+"lat" : 41.00449799900008
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Yeşil Park Veteriner Kliniği",
+"address" : "Ressam Hamdi Bey Sk. No:8 CİHANNÜMA/BEŞİKTAŞ",
+"phone" : "0212 327 88 03",
+"lng" : 29.00685653200003,
+"lat" : 41.04606482200006
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Medipet Veteriner Kliniği",
+"address" : "Kelaynak Sk. No:28/1 ULUS/BEŞİKTAŞ",
+"phone" : "0212 268 10 74",
+"lng" : 29.028389326000024,
+"lat" : 41.06761578700008
+},
+
+{
+"region" : "SARIYER",
+"name" : "Proplan Veteriner Kliniği",
+"address" : "Kilyos Cad. No:154 MADEN/SARIYER",
+"phone" : "0212 218 40 84 - 0532 356 21 70",
+"lng" : 29.049414478000074,
+"lat" : 41.178262532000076
+},
+
+{
+"region" : "BEYKOZ",
+"name" : "Kanlıca Veteriner Kliniği",
+"address" : "Halide Edip Adıvar Cad. No:22 KANLICA/BEYKOZ",
+"phone" : "0216 413 18 82",
+"lng" : 29.066466710000043,
+"lat" : 41.10157795900005
+},
+
+{
+"region" : "BAKIRKÖY",
+"name" : "Green Pet Veteriner Kliniği",
+"address" : "Yeşilköy Halkalı Cad. No:24 YEŞİLKÖY/BAKIRKÖY",
+"phone" : "0212 662 22 92",
+"lng" : 28.823007000000075,
+"lat" : 40.96248899900007
+},
+
+{
+"region" : "ÇEKMEKÖY",
+"name" : "Master Vet Veteriner Kliniği",
+"address" : "Mimar Sinan Cad. No:2P3 MİMAR SİNAN/ÇEKMEKÖY",
+"phone" : "0216 642 15 30",
+"lng" : 29.173975506000033,
+"lat" : 41.03251790000007
+},
+
+{
+"region" : "ÜMRANİYE",
+"name" : "Ares Veteriner Kliniği",
+"address" : "Atay Cad. No:72 SİTE/ÜMRANİYE",
+"phone" : "0216 533 88 33",
+"lng" : 29.112288653000064,
+"lat" : 41.00877599000006
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Pet Way Veteriner Kliniği",
+"address" : "Marmara Cad. No:19 KOZYATAĞI/KADIKÖY",
+"phone" : "0216 464 95 61",
+"lng" : 29.090726904000064,
+"lat" : 40.966492542000026
+},
+
+{
+"region" : "BAKIRKÖY",
+"name" : "Atakoy Veteriner Klinigi",
+"address" : "Sporcu Sk. No:13 ZEYTİNLİK/BAKIRKÖY",
+"phone" : "0212 583 10 06",
+"lng" : 28.86946002600007,
+"lat" : 40.97883846700006
+},
+
+{
+"region" : "BAKIRKÖY",
+"name" : "Seçkin Veteriner Kliniği",
+"address" : "Hamam Sk. No:33 CEVİZLİK/BAKIRKÖY",
+"phone" : "0212 583 77 23",
+"lng" : 28.875657311000055,
+"lat" : 40.979926514000056
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Elephant Veteriner Kliniği",
+"address" : "Ebulula Mardin Cad. No:157 LEVENT/BEŞİKTAŞ",
+"phone" : "0212 281 03 96",
+"lng" : 29.020128043000057,
+"lat" : 41.08720544500005
+},
+
+{
+"region" : "BAKIRKÖY",
+"name" : "Pet Care Veteriner Kliniği",
+"address" : "Bostan Sk. No:32 YEŞİLKÖY/BAKIRKÖY",
+"phone" : "0212 662 73 76",
+"lng" : 28.820510436000063,
+"lat" : 40.95931091600005
+},
+
+{
+"region" : "ÇEKMEKÖY",
+"name" : "Şanslı Pati Veteriner Kliniği",
+"address" : "Bahçe Sk. No:15 HAMİDİYE/ÇEKMEKÖY",
+"phone" : "0216 640 28 90",
+"lng" : 29.188130130000047,
+"lat" : 41.02878580500004
+},
+
+{
+"region" : "ESENYURT",
+"name" : "Petklinik Veteriner Kliniği",
+"address" : "Atatürk Bulvarı No:18K ESENKENT/ESENYURT",
+"phone" : "0212 672 40 02",
+"lng" : 28.667092247000028,
+"lat" : 41.06423484600003
+},
+
+{
+"region" : "BEYKOZ",
+"name" : "Tier Veteriner Kliniği",
+"address" : "İstanbul Cad. No:107 GÖRELE/BEYKOZ",
+"phone" : "0216 485 02 27",
+"lng" : 29.137917317000074,
+"lat" : 41.107564687000036
+},
+
+{
+"region" : "ŞİŞLİ",
+"name" : "Petmania Veteriner Kliniği",
+"address" : "Akkavak Sk. No:11 TEŞVİKİYE/ŞİŞLİ",
+"phone" : "0212 234 73 00",
+"lng" : 28.99258400000008,
+"lat" : 41.05160999900005
+},
+
+{
+"region" : "KÜÇÜKÇEKMECE",
+"name" : "Daisy Hayvan Kliniği",
+"address" : "Mimar Sinan Cad. No:20/1 YENİ .MAHALLE/KÜÇÜKÇEKMECE",
+"phone" : "0212 580 20 50",
+"lng" : 28.77883606900008,
+"lat" : 40.994711324000036
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Barış Veteriner Kliniği",
+"address" : "Bestekar Leyla Sk. No:52 FENERYOLU/KADIKÖY",
+"phone" : "0216 550 00 52",
+"lng" : 29.044336999000052,
+"lat" : 40.987613999000075
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Candy Veteriner Kliniği",
+"address" : "Süleymanbey Sk. No:10 GAYRETTEPE/BEŞİKTAŞ",
+"phone" : "0212 288 24 41",
+"lng" : 29.005540230000065,
+"lat" : 41.06384073300006
+},
+
+{
+"region" : "BEYKOZ",
+"name" : "Amazon Veteriner Kliniği",
+"address" : "Körfez Cad. No:16 ANADOLU HİSARI/BEYKOZ",
+"phone" : "0216 332 24 33",
+"lng" : 29.067517229000032,
+"lat" : 41.08377261600003
+},
+
+{
+"region" : "ATAŞEHİR",
+"name" : "Asimo Veteriner Kliniği",
+"address" : "Kurudere Sk. No:41-43A KÜÇÜKBAKKALKÖY/ATAŞEHİR",
+"phone" : "0216 573 20 73",
+"lng" : 29.12278823400004,
+"lat" : 40.983103991000064
+},
+
+{
+"region" : "KARTAL",
+"name" : "Doğa Veteriner Kliniği",
+"address" : "Samandıra Cad. No:32 YAKACIK YENİ/KARTAL",
+"phone" : "0216 309 80 15",
+"lng" : 29.22335514400004,
+"lat" : 40.922271591000026
+},
+
+{
+"region" : "BEYKOZ",
+"name" : "Dost Veteriner Kliniği",
+"address" : "Atatürk Cad. GÖZTEPE/BEYKOZ",
+"phone" : "0216 465 63 44",
+"lng" : 29.082213868000053,
+"lat" : 41.08250854400006
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Monovet Veteriner Kliniği",
+"address" : "Kocayol Cad. No:2 KOZYATAĞI/KADIKÖY",
+"phone" : "0216 380 58 58",
+"lng" : 29.101791280000043,
+"lat" : 40.96567494100003
+},
+
+{
+"region" : "BAŞAKŞEHİR",
+"name" : "Bahçeşehir Veteriner Kliniği",
+"address" : "Aşık Mahsuni Şerif Cad. No:8 BAHÇEŞEHİR 1. KISIM/BAŞAKŞEHİR",
+"phone" : "0212 608 09 21",
+"lng" : 28.68768467900003,
+"lat" : 41.06490130700007
+},
+
+{
+"region" : "SİLİVRİ",
+"name" : "Kavaklı Veteriner Kliniği",
+"address" : "Mevlüt Sk. No:127 KAVAKLI/SİLİVRİ",
+"phone" : "0212 744 70 12 - 0532 353 96 26",
+"lng" : 28.325905445000046,
+"lat" : 41.09095044500003
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Acıbadem Veteriner Kliniği",
+"address" : "Necipbey Sk. No:4 ACIBADEM/KADIKÖY",
+"phone" : "0216 325 50 20",
+"lng" : 29.045256994000056,
+"lat" : 41.00387062800007
+},
+
+{
+"region" : "ÜMRANİYE",
+"name" : "Doğa Hayvan Evi",
+"address" : "Yeşil Sk. No:19 ATATÜRK/ÜMRANİYE",
+"phone" : "0216 329 82 60",
+"lng" : 29.09430294200007,
+"lat" : 41.02498399500007
+},
+
+{
+"region" : "MALTEPE",
+"name" : "Boncuk Veteriner Kliniği",
+"address" : "Gümüş Sk. No:2 BAĞLARBAŞI/MALTEPE",
+"phone" : "0212 352 58 09",
+"lng" : 29.13797173300003,
+"lat" : 40.92604938800008
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Mosita Veteriner Kliniği",
+"address" : "Gülizar Sk. No:13 FENERBAHÇE/KADIKÖY",
+"phone" : "0216 336 12 30",
+"lng" : 29.041678554000043,
+"lat" : 40.97223660100008
+},
+
+{
+"region" : "KÜÇÜKÇEKMECE",
+"name" : "Atakent Veteriner Polikliniği",
+"address" : "312. Sk. No:3 ATATÜRK/KÜÇÜKÇEKMECE",
+"phone" : "0212 470 88 66 - 0212 470 40 50",
+"lng" : 28.792802254000037,
+"lat" : 41.05489053400004
+},
+
+{
+"region" : "MALTEPE",
+"name" : "Altıntepe BioVet Veteriner Kliniği",
+"address" : "Sırmakeş Sk. No:15 ALTINTEPE/MALTEPE",
+"phone" : "0216 388 62 21",
+"lng" : 29.100955948000035,
+"lat" : 40.95162331100005
+},
+
+{
+"region" : "SARIYER",
+"name" : "Özel Veteriner Kliniği",
+"address" : "4. Cad. No:5 ZEKERİYAKÖY/SARIYER",
+"phone" : "0212 202 71 55",
+"lng" : 29.02153766300006,
+"lat" : 41.20799403700005
+},
+
+{
+"region" : "MALTEPE",
+"name" : "Yonca Veteriner Kliniği",
+"address" : "Bağdat Cad. No:30 ALTINTEPE/MALTEPE",
+"phone" : "0216 367 26 38 - 0216 367 26 25",
+"lng" : 29.099189782000053,
+"lat" : 40.95230077200006
+},
+
+{
+"region" : "BEYLİKDÜZÜ",
+"name" : "Elif Veteriner Kliniği",
+"address" : "Cumhuriyet Cad. No:20A CUMHURİYET/BEYLİKDÜZÜ",
+"phone" : "0212 871 12 17",
+"lng" : 28.642757500000073,
+"lat" : 41.00319935500005
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Cebeci Veteriner Kliniği",
+"address" : "Şakacı Sk. No:33 KOZYATAĞI/KADIKÖY",
+"phone" : "0216 445 23 99",
+"lng" : 29.09150315200003,
+"lat" : 40.96791482900005
+},
+
+{
+"region" : "SARIYER",
+"name" : "Anivet Veteriner Polikliniği",
+"address" : "3. Cad. No:7 ZEKERİYAKÖY/SARIYER",
+"phone" : "0212 202 94 12",
+"lng" : 29.02315403600005,
+"lat" : 41.207184383000026
+},
+
+{
+"region" : "ATAŞEHİR",
+"name" : "Aorta Veteriner Kliniği",
+"address" : "Sedef Cad. No:13 ATATÜRK/ATAŞEHİR",
+"phone" : "0216 455 71 07",
+"lng" : 29.12102758900005,
+"lat" : 40.99246774200003
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Pet Villa Veteriner Kliniği",
+"address" : "Mehmet Şevkipaşa Sk. No:9 BOSTANCI/KADIKÖY",
+"phone" : "0216 372 71 46",
+"lng" : 29.101329312000075,
+"lat" : 40.958396814000025
+},
+
+{
+"region" : "SİLİVRİ",
+"name" : "Animal Veteriner Kliniği",
+"address" : "Endülüs Sk. No:28 PİRİ MEHMET PAŞA/SİLİVRİ",
+"phone" : "0212 728 69 14",
+"lng" : 28.243623238000055,
+"lat" : 41.07718545000006
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Atlantis Veteriner Kliniği",
+"address" : "Tütüncü Mehmetefendi Cad. No:18 GÖZTEPE/KADIKÖY",
+"phone" : "0216 386 42 25",
+"lng" : 29.062439392000044,
+"lat" : 40.97295706600005
+},
+
+{
+"region" : "ESENYURT",
+"name" : "Kitty Puppy Veteriner Kliniği",
+"address" : "Ispartakule Cad. No:148 SÜLEYMANİYE/ESENYURT",
+"phone" : "0212 450 22 12",
+"lng" : 28.68930752700004,
+"lat" : 41.043448339000065
+},
+
+{
+"region" : "SARIYER",
+"name" : "Animalium Veteriner Kliniği",
+"address" : "Adnan Kahveci Cad. No:112 FERAHEVLER/SARIYER",
+"phone" : "0212 299 63 49",
+"lng" : 29.047458130000052,
+"lat" : 41.12889265700005
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "La Fontaine Veteriner Kliniği",
+"address" : "Feneryolu Sk. No:18 FENERYOLU/KADIKÖY",
+"phone" : "0216 348 52 02",
+"lng" : 29.04703999900005,
+"lat" : 40.98398399900003
+},
+
+{
+"region" : "ESENYURT",
+"name" : "Ak-Vet Veteriner Kliniği",
+"address" : "1996. Sk. No:2CC CUMHURİYET/ESENYURT",
+"phone" : "0212 853 44 42 - 43",
+"lng" : 28.64437414100007,
+"lat" : 41.015629029000024
+},
+
+{
+"region" : "PENDİK",
+"name" : "Gelişim Veteriner Kliniği",
+"address" : "Ankara Cad. KURTKÖY/PENDİK",
+"phone" : "0216 378 92 66",
+"lng" : 29.298344591000046,
+"lat" : 40.91253951900006
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Sante Veteriner",
+"address" : "İnönü Cad. No:54 19 MAYIS/KADIKÖY",
+"phone" : "0216 355 06 55",
+"lng" : 29.089717954000037,
+"lat" : 40.97899819100007
+},
+
+{
+"region" : "SARIYER",
+"name" : "Leon Veteriner Kliniği",
+"address" : "Boyacı Çeşme Sk. No:2 EMİRGAN/SARIYER",
+"phone" : "0212 229 19 23",
+"lng" : 29.053514515000074,
+"lat" : 41.10205960500008
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Pluto Veteriner Kliniği",
+"address" : "Hatboyu Sk. No:14 ERENKÖY/KADIKÖY",
+"phone" : "0216 385 04 78",
+"lng" : 29.075982000000067,
+"lat" : 40.972911999000075
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Denizaltı Veteriner Kliniği",
+"address" : "Mustafa Kaya Sk. No:13 GÖZTEPE/KADIKÖY",
+"phone" : "0216 567 44 25",
+"lng" : 29.059490658000072,
+"lat" : 40.98229300100007
+},
+
+{
+"region" : "BEYKOZ",
+"name" : "Pet House Veteriner Kliniği",
+"address" : "Şehit Mehmet Ali Şener Cad. No:18 RİVA/BEYKOZ",
+"phone" : "0216 319 18 10",
+"lng" : 29.217669604000037,
+"lat" : 41.22347012700004
+},
+
+{
+"region" : "SİLİVRİ",
+"name" : "Trakya Veteriner Kliniği",
+"address" : "Sağlık Cad. No:112 AKÖREN/SİLİVRİ",
+"phone" : "0212 728 91 72 - 0212 727 18 63",
+"lng" : 28.328386875000035,
+"lat" : 41.19493697400003
+},
+
+{
+"region" : "SİLİVRİ",
+"name" : "Atlas Veteriner Kliniği",
+"address" : "Deha Sk. No:12 YENİ/SİLİVRİ",
+"phone" : "0212 727 47 51",
+"lng" : 28.24128482800006,
+"lat" : 41.07860200500005
+},
+
+{
+"region" : "ÇATALCA",
+"name" : "Catalca Veteriner Kliniği",
+"address" : "Atatürk Cad. No:14 FERHATPAŞA/ÇATALCA",
+"phone" : "0212 789 53 23",
+"lng" : 28.46281612300004,
+"lat" : 41.14160663500007
+},
+
+{
+"region" : "ÇEKMEKÖY",
+"name" : "Minik Patiler Veteriner Kliniği",
+"address" : "Çavuşbaşı Cad. No:48Y MERKEZ/ÇEKMEKÖY",
+"phone" : "0216 640 57 57",
+"lng" : 29.174874534000026,
+"lat" : 41.03723157400003
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Barbaros Veteriner Kliniği",
+"address" : "Bostancı Veli Sk. No:10 CİHANNÜMA/BEŞİKTAŞ",
+"phone" : "0212 227 36 77",
+"lng" : 29.00672461100004,
+"lat" : 41.046533313000054
+},
+
+{
+"region" : "ŞİŞLİ",
+"name" : "Anımal'S Veteriner Kliniği",
+"address" : "Bilgiç Sk. No:2 CUMHURİYET/ŞİŞLİ",
+"phone" : "0212 230 91 11",
+"lng" : 28.98294306300005,
+"lat" : 41.053724068000065
+},
+
+{
+"region" : "BÜYÜKÇEKMECE",
+"name" : "Damaska Veteriner Klinigi",
+"address" : "Şakir Sk. No:1D2 EKİNOBA/BÜYÜKÇEKMECE",
+"phone" : "0212 863 20 93",
+"lng" : 28.543211300000053,
+"lat" : 41.00221221400005
+},
+
+{
+"region" : "SARIYER",
+"name" : "Pet And Garden Life",
+"address" : "Adnan Kahveci Cad. No:2 FERAHEVLER/SARIYER",
+"phone" : "0212 262 87 65",
+"lng" : 29.03986760400005,
+"lat" : 41.132486279000034
+},
+
+{
+"region" : "SULTANBEYLİ",
+"name" : "Sultanbeyli Veteriner Kliniği",
+"address" : "Fatih Bulvarı No:89 ABDURRAHMANGAZİ/SULTANBEYLİ",
+"phone" : "0216 496 22 29",
+"lng" : 29.259674361000066,
+"lat" : 40.968932746000064
+},
+
+{
+"region" : "FATİH",
+"name" : "Fındıkzade Veteriner",
+"address" : "Akkoyunlu Sk. No:35 MOLLA GÜRANİ/FATİH",
+"phone" : "0212 531 13 24",
+"lng" : 28.93793099900006,
+"lat" : 41.013644999000064
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Vet Kadıköy Veteriner",
+"address" : "Halisefendi Sk. No:7 CAFERAĞA/KADIKÖY",
+"phone" : "0216 330 35 92",
+"lng" : 29.02613810500003,
+"lat" : 40.987052934000076
+},
+
+{
+"region" : "BÜYÜKÇEKMECE",
+"name" : "Efe Veteriner Kliniği",
+"address" : "Cengiz Topel Cad. No:36 FATİH/BÜYÜKÇEKMECE",
+"phone" : "0212 882 63 22",
+"lng" : 28.58986032000007,
+"lat" : 41.02063342400004
+},
+
+{
+"region" : "ÇEKMEKÖY",
+"name" : "Şans Veteriner Kliniği",
+"address" : "Özdemir Sk. No:12C MİMAR SİNAN/ÇEKMEKÖY",
+"phone" : "0216 642 97 07",
+"lng" : 29.175219681000044,
+"lat" : 41.03375675400008
+},
+
+{
+"region" : "BEŞİKTAŞ",
+"name" : "Boğaziçi Veteriner Kliniği",
+"address" : "Yenisülün Sk. No:9 LEVENT/BEŞİKTAŞ",
+"phone" : "0212 283 90 33 - 0212 280 50 24",
+"lng" : 29.01740553700006,
+"lat" : 41.083278061000044
+},
+
+{
+"region" : "ATAŞEHİR",
+"name" : "Botalinik Veteriner Kliniği",
+"address" : "Meriç Cad. No:30 ATATÜRK/ATAŞEHİR",
+"phone" : "0216 456 04 18",
+"lng" : 29.138033413000073,
+"lat" : 40.98831108200005
+},
+
+{
+"region" : "ŞİŞLİ",
+"name" : "Mecidiyeköy Veteriner Kliniği",
+"address" : "Zertop Sk. No:12 MECİDİYEKÖY/ŞİŞLİ",
+"phone" : "0212 211 69 45",
+"lng" : 28.99381782900008,
+"lat" : 41.068729604000055
+},
+
+{
+"region" : "BAKIRKÖY",
+"name" : "İstanbul Veteriner Polikliniği",
+"address" : "Eceler Sk. No:16 ŞENLİKKÖY/BAKIRKÖY",
+"phone" : "0212 663 91 42 - 43",
+"lng" : 28.796764001000042,
+"lat" : 40.97045199900003
+},
+
+{
+"region" : "BAKIRKÖY",
+"name" : "Pet Park Veteriner Kliniği",
+"address" : "Yunus Nadi Sk. No:32/1 KARTALTEPE/BAKIRKÖY",
+"phone" : "0212 660 40 37",
+"lng" : 28.875864000000036,
+"lat" : 40.99030999900003
+},
+
+{
+"region" : "ÜMRANİYE",
+"name" : "Club Vet Veteriner Kliniği",
+"address" : "Palandöken Cad. No:3 MADENLER/ÜMRANİYE",
+"phone" : "0216 313 54 45",
+"lng" : 29.189380261000053,
+"lat" : 41.013248875000045
+},
+
+{
+"region" : "ATAŞEHİR",
+"name" : "Ataşehir Veteriner Kliniği",
+"address" : "Fırat Cad. No:9A ATATÜRK/ATAŞEHİR",
+"phone" : "0216 455 45 71",
+"lng" : 29.129536562000055,
+"lat" : 40.989935272000025
+},
+
+{
+"region" : "BAŞAKŞEHİR",
+"name" : "Garden Pet Veteriner Kliniği",
+"address" : "Aşık Mahsuni Şerif Cad. No:36A BAHÇEŞEHİR 1. KISIM/BAŞAKŞEHİR",
+"phone" : "0212 669 89 40",
+"lng" : 28.688659647000065,
+"lat" : 41.06501105600006
+},
+
+{
+"region" : "BAKIRKÖY",
+"name" : "Petek Veteriner Kliniği",
+"address" : "Rüya Sk. No:41 SAKIZAĞACI/BAKIRKÖY",
+"phone" : "0212 570 40 81",
+"lng" : 28.880662356000073,
+"lat" : 40.97754125100005
+},
+
+{
+"region" : "BAHÇELİEVLER",
+"name" : "Yaşam Veteriner Kliniği",
+"address" : "Amiral Nejdet Uran Sk. No:7 BAHÇELİEVLER/BAHÇELİEVLER",
+"phone" : "0212 556 13 88",
+"lng" : 28.863838246000057,
+"lat" : 41.00296538100008
+},
+
+{
+"region" : "ŞİŞLİ",
+"name" : "Millennium Veteriner Kliniği",
+"address" : "Şekerciler Sk. No:3 GÜLBAHAR/ŞİŞLİ",
+"phone" : "0212 213 92 49",
+"lng" : 29.00294074100003,
+"lat" : 41.070286861000056
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Trio Veteriner Kliniği",
+"address" : "Fuatpaşa Cad. No:17 FENERBAHÇE/KADIKÖY",
+"phone" : "0216 386 41 81",
+"lng" : 29.045500179000044,
+"lat" : 40.97291736500006
+},
+
+{
+"region" : "FATİH",
+"name" : "Dost El Veteriner Kliniği",
+"address" : "Bina Emini Sk. No:11 İSKENDERPAŞA/FATİH",
+"phone" : "0212 532 15 14",
+"lng" : 28.950017811000066,
+"lat" : 41.01591203900006
+},
+
+{
+"region" : "MALTEPE",
+"name" : "Maltepe Veteriner Kliniği",
+"address" : "Adalı Sk. No:13 ALTAYÇEŞME/MALTEPE",
+"phone" : "0216 383 71 77",
+"lng" : 29.131764240000052,
+"lat" : 40.92804281600007
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "Performans Veteriner Polikliniği",
+"address" : "SUADIYE Camii Sk. No:17 SUADIYE/KADIKÖY",
+"phone" : "0216 410 04 01",
+"lng" : 29.07992323600007,
+"lat" : 40.96249333700007
+},
+
+{
+"region" : "ATAŞEHİR",
+"name" : "BBÇ Veteriner Kliniği",
+"address" : "Turgut Özal Bulvarı No:24 YENİŞEHİR/ATAŞEHİR",
+"phone" : "0216 456 36 06",
+"lng" : 29.135323001000074,
+"lat" : 40.99633700000004
+},
+
+{
+"region" : "MALTEPE",
+"name" : "Veteriner Kliniği",
+"address" : "Kaptan Sk. No:6 FEYZULLAH/MALTEPE",
+"phone" : "0216 441 88 63",
+"lng" : 29.129079873000023,
+"lat" : 40.92673056600006
+},
+
+{
+"region" : "ŞİŞLİ",
+"name" : "Pet. Corner Vetariner Polikliniği",
+"address" : "Ortaklar Cad. No:45 FULYA/ŞİŞLİ",
+"phone" : "0212 356 02 55 - 56",
+"lng" : 28.998126858000035,
+"lat" : 41.061557451000056
+},
+
+{
+"region" : "SARIYER",
+"name" : "Sarıyer Pets' Stop Veteriner Kliniği",
+"address" : "Kartal Sk. No:105 FERAHEVLER/SARIYER",
+"phone" : "0212 262 65 18",
+"lng" : 29.048473134000062,
+"lat" : 41.12771158900006
+},
+
+{
+"region" : "BÜYÜKÇEKMECE",
+"name" : "Beyvet Veteriner Kliniği",
+"address" : "Mustafa Kemal Bulvarı No:36B4 MİMAROBA/BÜYÜKÇEKMECE",
+"phone" : "0212 863 10 68",
+"lng" : 28.541200634000063,
+"lat" : 41.00457834600007
+},
+
+{
+"region" : "BEYKOZ",
+"name" : "Veterineria",
+"address" : "Begonya Cad. No:64 GÖZTEPE/BEYKOZ",
+"phone" : "0216 465 01 52",
+"lng" : 29.086501095000074,
+"lat" : 41.08032134000007
+},
+
+{
+"region" : "BÜYÜKÇEKMECE",
+"name" : "Mediko Veteriner Kliniği",
+"address" : "Deniz Sk. No:10 FATİH/BÜYÜKÇEKMECE",
+"phone" : "0212 883 08 78",
+"lng" : 28.58722875500007,
+"lat" : 41.018737016000046
+},
+
+{
+"region" : "ÇEKMEKÖY",
+"name" : "VetCheck Veteriner Kliniği",
+"address" : "Yeşil Kayalar Cad. No:44A MİMAR SİNAN/ÇEKMEKÖY",
+"phone" : "0216 641 88 38",
+"lng" : 29.175344934000066,
+"lat" : 41.02720855000007
+},
+
+{
+"region" : "ATAŞEHİR",
+"name" : "Batı Ataşehir Veteriner Kliniği",
+"address" : "Bahçem Sk. No:5 BARBAROS/ATAŞEHİR",
+"phone" : "0216 315 34 35",
+"lng" : 29.103410335000035,
+"lat" : 40.989825143000076
+},
+
+{
+"region" : "FATİH",
+"name" : "Paşa Veteriner Kliniği",
+"address" : "Koca Mustafapaşa Cad. No:79 KOCA MUSTAFAPAŞA/FATİH",
+"phone" : "0212 587 88 06",
+"lng" : 28.934224994000033,
+"lat" : 41.00460319100006
+},
+
+{
+"region" : "BAKIRKÖY",
+"name" : "Medicine Veteriner Kliniği",
+"address" : "Mahmut Şevket Paşa Cad. No:9 /1 YEŞİLKÖY/BAKIRKÖY",
+"phone" : "0212 574 17 92",
+"lng" : 28.82386272100007,
+"lat" : 40.961714777000054
+},
+
+{
+"region" : "KADIKÖY",
+"name" : "City-Vet Kliniği",
+"address" : "Bağdat Cad. No:484 BOSTANCI/KADIKÖY",
+"phone" : "0216 410 09 76 - 78",
+"lng" : 29.089011096000036,
+"lat" : 40.95605676400004
+},
+
+{
+"region" : "PENDİK",
+"name" : "Çetiner Veteriner Kliniği",
+"address" : "Burhan Toprak Cad. No:63 BATI/PENDİK",
+"phone" : "0216 390 36 95 - 0216 491 02 41",
+"lng" : 29.227825575000054,
+"lat" : 40.87605535300003
+},
+
+{
+"region" : "BAŞAKŞEHİR",
+"name" : "Gözde Veteriner Kliniği",
+"address" : "Aşık Mahsuni Şerif Cad. No:12A BAHÇEŞEHİR 1. KISIM/BAŞAKŞEHİR",
+"phone" : "0212 669 84 69",
+"lng" : 28.687895483000034,
+"lat" : 41.064710829000035
+},
+
+{
+"region" : "SARIYER",
+"name" : "Madagaskar Veteriner Kliniği",
+"address" : "Tarakçı Cad. No:71AA ZEKERİYAKÖY/SARIYER",
+"phone" : "0212 201 51 52 - 0506 564 74 75",
+"lng" : 29.040055722000034,
+"lat" : 41.204435180000075
+},
+
+{
+"region" : "ARNAVUTKÖY",
+"name" : "Arnavutköy Veteriner Kliniği",
+"address" : "Eski Edirne Asfaltı Cad. No:1307 ARNAVUTKÖY MERKEZ/ARNAVUTKÖY",
+"phone" : "0212 597 53 63",
+"lng" : 28.736428912000065,
+"lat" : 41.18394330800004
+},
+
+{
+"region" : "BAYRAMPAŞA",
+"name" : "Pet Adress Veteriner Kliniği",
+"address" : "Atışalanı Cad. No:3 YENİDOĞAN/BAYRAMPAŞA",
+"phone" : "0212 613 78 78",
+"lng" : 28.912094443000058,
+"lat" : 41.03852481000007
+}
+]
+}

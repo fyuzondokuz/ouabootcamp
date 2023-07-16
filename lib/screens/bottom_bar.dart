@@ -1,6 +1,9 @@
 import 'package:fluentui_icons/fluentui_icons.dart';
 import 'package:flutter/material.dart';
-import 'package:uygulama/screens/home_screen.dart';
+import 'package:uygulama/screens/calendar_screen.dart';
+
+import 'information_screen.dart';
+import 'map.dart';
 
 class BottomBar extends StatefulWidget {
   const BottomBar({super.key});
@@ -12,10 +15,9 @@ class BottomBar extends StatefulWidget {
 class _BottomBarState extends State<BottomBar> {
   int _selectedIndex=0;
   static final List<Widget>_widgetOptions =<Widget> [
-    HomeScreen(),
-    const Text("Arama"),
-    const Text("Alışveriş"),
-    const Text("Takvim"),
+    InformationScreen(),
+    MapScreen(),
+    CalendarScreen(),
     const Text("Profil"),
   ];
 
