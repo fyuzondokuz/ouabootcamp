@@ -80,7 +80,7 @@ Süreç boyunca birçok konuda değişim oldu. Olabildiğince birlikte çalış�
 ![Ürün10](/Project%20Managment/Sprint3Documents/BilgiEkranı4.png)
 ![Ürün11](/Project%20Managment/Sprint3Documents/HaritaEkranı.png)
 ![Ürün12](/Project%20Managment/Sprint3Documents/TakvimEkranı.png)
-* **Sprint Review:** Uygulamayı yetiştirebilmek için bazı kısımlar yetiştiği kadarıyla bırakılmıştır. Bu Sprint bizim için hem öğretici hem de eğlenceliydi. Birbirimizi tanımış, vakit geçirmiş olduk.
+* **Sprint Review:** Uygulamayı yetiştirebilmek için bazı kısımlar yetiştiği kadarıyla bırakılmıştır. Bu Sprint bizim için hem öğretici hem de eğlenceliydi. Birbirimizi tanımış, vakit geçirmiş olduk. Sprint Review katılımcıları: Eda Akbaşak, Esra Bektaş, Mertcan Aydoğan, Yılmaz Can Polat.
 * **Sprint Retrospective:**
   - Kalan süreçte yapılması beklenenler temel olarak yapıldı ama daha detaylandırılabilirdi.
 * **Sprint Notu:** 2.Sprintte kodlama yapmamış olmakla beraber bu Sprintte hızlanmamız iyi oldu.
