@@ -1,7 +1,7 @@
 import 'package:fluentui_icons/fluentui_icons.dart';
 import 'package:flutter/material.dart';
 import 'package:uygulama/screens/calendar_screen.dart';
-
+import 'package:uygulama/screens/profile_screen.dart';
 import 'information_screen.dart';
 import 'map.dart';
 
@@ -18,7 +18,7 @@ class _BottomBarState extends State<BottomBar> {
     InformationScreen(),
     MapScreen(),
     CalendarScreen(),
-    const Text("Profil"),
+    ProfileScreen(),
   ];
 
   void _onItemTapped(int index){

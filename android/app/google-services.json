@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156971198878",
+    "project_id": "uygulama-e3b9f",
+    "storage_bucket": "uygulama-e3b9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156971198878:android:1a441c15f2c8a1dc0e8e8f",
+        "android_client_info": {
+          "package_name": "com.uyg.uygulama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156971198878-a3di1fhecd5p50vgco1rc0bdvqq796ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChlBsqwTNkkN7ODmY4gVC7ZHUm-scW2bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156971198878-a3di1fhecd5p50vgco1rc0bdvqq796ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
